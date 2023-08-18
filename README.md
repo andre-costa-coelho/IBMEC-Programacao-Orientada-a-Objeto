@@ -5,7 +5,7 @@
 
 
 ## Conteúdo das Aulas:
-- Nesta seção, você encontrará os Código-fontes discutidos durante as aulas do curso de Estrutura de Dados do IBMEC.
+- Nesta seção, você encontrará os Código-fontes discutidos durante as aulas do curso de Progamação Orientada a Objeto do IBMEC.
 - https://github.com/andre-costa-coelho/IBMEC-Programacao-Orientada-a-Objeto/tree/conteudo-das-aulas
 
 ## Avaliações:
