@@ -1,5 +1,5 @@
 ## IBMEC Progamação Orientada a Objeto
-- Bem-vindo ao repositório "IBMEC Progamação Orientada a Objeto"! Este repositório contém materiais relacionados ao curso de Estrutura de Dados do IBMEC.
+- Bem-vindo ao repositório "IBMEC Progamação Orientada a Objeto"! Este repositório contém materiais relacionados ao curso de Progamação Orientada a Objeto.
 - Aqui você encontrará informações sobre o conteúdo das aulas, avaliações e exercícios.
 - Lembrando que todos os códigos apresentados dentro desse material são desenvolvidos na linguagem de programação Java.
 
